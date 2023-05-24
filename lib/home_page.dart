@@ -1,5 +1,3 @@
-import 'dart:math';
-
 import 'package:flutter/material.dart';
 import 'package:my_first_app/description_page.dart';
 import 'package:my_first_app/main.dart';
